@@ -22,10 +22,16 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff",
         "package": "com.sigee.educacao"
-      }
+      },
+      "package": "com.leticiabrt.eu"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1fe1f4e8-cc04-42b6-b4d0-498bcdb4a3f1"
+      }
     }
   }
 }
